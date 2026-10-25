@@ -1,0 +1,6 @@
+{
+  "name": "Loja do Cabo — Suplementos Naturais para Desempenho Masculino",
+  "description": "Catálogo oficial Loja do Cabo Ltda: suplementos masculinos naturais para vigor, potência, controle e vitalidade com frete grátis e envio discreto para todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

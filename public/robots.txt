@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lojadocabo.com/sitemap.xml
